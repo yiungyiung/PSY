@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://projectpsy-815fa-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">993312168850</string>
+  <string name="google_storage_bucket" translatable="false">projectpsy-815fa.appspot.com</string>
+  <string name="project_id" translatable="false">projectpsy-815fa</string>
+  <string name="google_api_key" translatable="false">AIzaSyDBh_gMU9PCfAqvHHziwNCTVhhPpsa4FkY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBh_gMU9PCfAqvHHziwNCTVhhPpsa4FkY</string>
+  <string name="google_app_id" translatable="false">1:993312168850:android:8574d0641d8b42ecdabf4b</string>
+  <string name="default_web_client_id" translatable="false">993312168850-nci095csucsstafk9gao2r44o188i6ho.apps.googleusercontent.com</string>
+</resources>
